@@ -1,0 +1,90 @@
+body{background-color:maroon;
+color: white;}
+body, html{height: 100%;
+margin: 0px;}
+
+nav li{
+    display: inline;
+    margin: 20px;
+}
+
+nav ul{
+    background-color: black;
+    margin: 0;
+}
+
+nav{
+    display: block;
+    color: white;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+#main{
+    width: 65%;
+    float: left;
+    height: 100%;
+    padding-left: 20px;
+}
+
+#side{
+    width: 30%;
+    float: right;
+    height: 100%;
+    padding: 20px;
+}
+
+#baby-image{
+    width: 100%;
+}
+#cd{
+    width: 100%;
+}
+#denver{
+    width: 100%;
+}
+#poke{
+    width: 100%;
+}
+#nuggs{
+    width: 100%;
+}
+#sw{
+    width: 100%;
+}
+#main-articles{
+    text-align: center;
+}
+#side-articles{
+    text-align: center;
+}
+
+#heading{
+    padding: 30px;
+    color: yellow;
+}
+
+#name{
+    padding: 60px;
+    color: yellow;
+}
+#id{
+    padding: 90px;
+    color: pink;
+}
+#d{
+    color: blue;
+}
+#fav{
+    text-align: center;
+    color: blue ;
+}
+#music{
+    text-align: center;
+    color: blue;
+}
+#about{
+    color: blue;
+}
